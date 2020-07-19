@@ -1,0 +1,38 @@
+#header-nav {
+  background-color: burlywood;
+  border-radius: 20;
+  border: 0;
+}
+
+.navbar-brand{
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #FFF;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+h2{
+  text-align: center;
+}
+
+#menuTitle{
+  text-align: center;
+  font-size: 20px;
+  background-color: aqua;
+}
+
+.contentTitle{
+  text-align: center;
+}
